@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PauloFerreira25&count_private=true)
-![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=PauloFerreira25&hide=html
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloFerreira25&hide=html)
 
 <!--
 **PauloFerreira25/PauloFerreira25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
